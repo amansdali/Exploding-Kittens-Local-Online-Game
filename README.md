@@ -30,9 +30,15 @@ Step 1: Run the server
 Step 2: Run clients
   On each device used to play the game (The game can also be run on the same device using multiple terminals):
     Navigate to the Exploding-Kittens-Local-Online-Game folder
-    In the config.txt file, replace the line \*enter IP address here\* with the IP address of the device used to run the server
+    In the config.txt file, replace the line 
+    ```
+    \*enter IP address here\* 
+    ```
+    with the IP address of the device used to run the server
+    
     Then in the terminal enter the following command:
     ```
     cd java Client
     ```
+    
 Once four clients are connected, the game will begin.
