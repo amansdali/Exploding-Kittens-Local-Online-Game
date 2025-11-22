@@ -3,7 +3,7 @@ Local online game that supports 4 players, based on the Exploding Kittens card g
 
 ## Setup:
 ### Requirements
-Java version 24 or above
+Java JDK 24 or later
 
 ### Installation
 Cloning From Github:
