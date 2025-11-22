@@ -17,12 +17,14 @@ Click Code → Download ZIP.
 Extract the ZIP file.
 Open a terminal
 Navigate to the extracted folder using the terminal:
-  - cd *path to extracted folder*
+
+ cd *path to extracted folder*
 
 ### Running the game
 Step 1: Run the server
   In the terminal enter command:
-    - cd java ExplodingKittensServer
+    
+   cd java ExplodingKittensServer
 
 Step 2: Run clients
   On each device used to play the game (The game can also be run on the same device using multiple terminals):
@@ -30,6 +32,6 @@ Step 2: Run clients
     In the config.txt file, replace the line \*enter IP address here\* with the IP address of the device used to run the server
     Then in the terminal enter the following command:
      
-     - cd java Client
+     cd java Client
 
 Once four clients are connected, the game will begin.
