@@ -76,7 +76,9 @@ Once four clients are connected, the game will begin.
 
 <img width="993" height="796" alt="image" src="https://github.com/user-attachments/assets/cc005822-4d1d-4a37-8cd1-146e4e80abc8" />
 
-### 
+### If you run out of defuses and draw a bomb card, you lose the game
+
+<img width="998" height="802" alt="image" src="https://github.com/user-attachments/assets/8df1b8fc-ce96-4012-8f49-b6f95b41f2f5" />
 
 
 
