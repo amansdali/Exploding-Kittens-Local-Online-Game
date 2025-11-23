@@ -68,7 +68,7 @@ Once four clients are connected, the game will begin.
 <img width="992" height="798" alt="image" src="https://github.com/user-attachments/assets/addb1890-a4cf-49c7-a3fd-a38c9497c3b5" />
 <img width="989" height="794" alt="image" src="https://github.com/user-attachments/assets/ade1e622-5b49-41ab-8810-2e23e53e233d" />
 
-### Play cat cards 3 at a time
+### Play TACOCAT cards 3 at a time
 
 <img width="986" height="787" alt="image" src="https://github.com/user-attachments/assets/dae6a96f-9c73-4a0c-b6eb-fb6835eccea5" />
 
