@@ -7,6 +7,7 @@ Local online game that supports 4 players, based on the Exploding Kittens card g
 
 ## Video Demo
 
+https://github.com/user-attachments/assets/c5a2082f-76e9-4972-b1fb-b263ef562d9c
 
 ## Setup:
 ### Requirements
